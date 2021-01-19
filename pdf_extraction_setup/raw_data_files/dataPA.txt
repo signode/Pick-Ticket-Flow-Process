@@ -1,0 +1,510 @@
+17-Mar-2020
+7178416-01 16:00 SYS 13-Mar-2020 GIN 1516-02 Arauco Canada Limited, Sault Ste. Marie, ON 141.17 2
+141.17
+03-Jun-2020
+7180485-00 11:00 SYS 13-May-2020 GIN 2743-00 Nova Tube Inc, Montreal, QC 4,014.79 1
+4,014.79
+03-Jul-2020
+7181478-02 09:14 DAL 11-Jun-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 139.21 1
+139.21
+25-Aug-2020
+7183412-00 08:55 SYS 24-Aug-2020 THA 2327-01 Louisiana-Pacific Canada Ltd, Minitonas, MB 508.78 1
+508.78
+28-Aug-2020
+7183993-00 11:23 GIN 28-Aug-2020 GIN 1288-01 Materiaux Blanchet Inc, Amos, QC 254.22 1
+7184017-00 14:35 GIN 28-Aug-2020 GIN 2578-01 Owens Corning Celfortec LP, Salaberry De Valleyf, QC1,211.76 1
+1,465.98
+30-Aug-2020
+7184071-00 11:18 SHE 30-Aug-2020 SHE 2044-03 Teal Group-Teal Cedar Div, Surrey, BC 128.45 1
+128.45
+31-Aug-2020
+7183102-00 21:43 NC 23-Aug-2020 SHE 2723-00 Maple Leaf Consumer Foods Inc, Mississauga, ON 43.56 1
+7183290-00 21:43 TAY 23-Aug-2020 THA 1210-03 Invista (Canada) Co, Kingston, ON 512.73 1
+556.29
+01-Sep-2020
+7182102-00 15:49 GIN 29-Jun-2020 GIN 2578-01 Owens Corning Celfortec LP, Salaberry De Valleyf, QC1,336.06 2
+1,336.06
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+02-Sep-2020
+7184238-00 11:16 GIN 2-Sep-2020 GIN 5067-02 Louisiana-Pacific Canada, Ltd., Dawson Creek, BC 23,886.72 1
+23,886.72
+09-Sep-2020
+7184522-00 11:01 SYS 9-Sep-2020 GIN 6019-01 Bunzl Canada Burlington 60604, Burlington, ON 0.00 1
+0.00
+14-Sep-2020
+7184189-00 12:32 SYS 1-Sep-2020 THA 1011-02 Natrel, Quebec, QC 3,282.84 1
+7184335-01 10:04 SYS 3-Sep-2020 DAL 2880-00 Dolbeau Oxygene Inc., Dolbeau-Mistassini, QC 3,274.80 1
+7184706-00 05:59 SYS 11-Sep-2020 DAL 1860-00 Shawinigan Aluminium Inc., Shawinigan, QC 444.00 1
+7184707-01 12:32 SYS 11-Sep-2020 DAL 1507-00 Barrette Wood Ltd., Saint-Jean-Sur-Richelieu, QC 0.00 1
+7,001.64
+22-Sep-2020
+7182913-02 20:14 SHE 27-Jul-2020 SHE 6207-02 GF Inc., Delta, BC 4.50 1
+7183567-01 20:15 SHE 21-Aug-2020 SHE 6207-02 GF Inc., Delta, BC 861.17 1
+7184185-02 14:00 SYS 1-Sep-2020 GIN 5067-01 Louisiana-Pacific Canada, Ltd., Minitonas, MB 5,971.68 1
+6,837.35
+24-Sep-2020
+7183687-01 16:00 SYS 24-Aug-2020 LUN 5021-01 Novelis Inc, Kingston, ON 5,888.00 3
+7183888-01 13:00 SYS 27-Aug-2020 GIN 1059-01 AV Nackawic, Nackawic, NB 911.91 1
+7184347-00 13:54 SYS 8-Sep-2020 DAL 2792-01 E-Z-EM Canada Inc., Anjou, QC 621.35 1
+7,421.26
+25-Sep-2020
+7183686-00 10:03 THA 24-Aug-2020 THA 2879-03 Endries International Cda Inc, Sainte-Foy, QC 0.00 3
+7185031-01 16:00 SYS 22-Sep-2020 GIN 2812-01 Olymel S.E.C/L.P., St-Esprit, QC 79.60 1
+79.60
+29-Sep-2020
+7183687-02 08:56 SYS 24-Aug-2020 LUN 5021-01 Novelis Inc, Kingston, ON 2,944.00 1
+2,944.00
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+02-Oct-2020
+7185027-01 15:00 SYS 21-Sep-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 234.72 5
+234.72
+08-Oct-2020
+7183678-01 08:51 SHE 24-Aug-2020 SHE 6207-02 GF Inc., Delta, BC 2,344.53 1
+2,344.53
+13-Oct-2020
+7185358-00 08:02 SYS 29-Sep-2020 SHE 6207-04 GF Inc., Saskatoon, SK 0.00 1
+0.00
+14-Oct-2020
+7185027-05 14:00 CAS 21-Sep-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 17.84 1
+17.84
+16-Oct-2020
+7184625-00 16:00 SYS 10-Sep-2020 GIN 6007-00 Advance Shipping Supplies, Mississauga, ON 14.86 1
+7185721-00 12:00 SYS 6-Oct-2020 GIN 1777-00 CCR Refinery, Montreal-Est, QC 427.50 1
+442.36
+01-Nov-2020
+7187229-00 23:51 DAL 1-Nov-2020 DAL 1298-01 Barrettewood Inc, Roberval, QC 353.77 1
+353.77
+03-Nov-2020
+7186070-01 14:07 SHE 16-Oct-2020 GIN 2348-01 Marwood Ltd Cape Cod, Bedford, NS 377.21 1
+377.21
+05-Nov-2020
+7187522-00 11:55 SHE 5-Nov-2020 SHE 1195-01 Novelis Inc, Kingston, ON 1,139.17 1
+1,139.17
+07-Dec-2020
+7189172-00 15:15 GIN 14-Jan-2021 GIN 1232-07 Atlantic Packaging ProductsLtd, Scarborough, ON 10,681.16 2
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+10,681.16
+10-Dec-2020
+7184167-00 13:40 SHE 31-Aug-2020 SHE 6207-02 GF Inc., Delta, BC 771.84 1
+771.84
+11-Dec-2020
+7185318-09 10:47 DAL 28-Sep-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 1,023.09 1
+7185634-01 18:45 DAL 5-Oct-2020 DAL 1182-08 Rio Tinto Fer et Titane Inc., Jonquiere, QC 246.70 1
+7187912-00 13:17 MCM 11-Dec-2020 MCM 8000-D103 Frederick Cote, Saint-Raymond, QC 0.00 1
+1,269.79
+12-Dec-2020
+7186803-00 13:55 TAY 23-Oct-2020 THA 1998-01 Bitumar Inc., Montreal, QC 1,445.64 2
+1,445.64
+13-Dec-2020
+7184930-01 21:17 TAY 18-Sep-2020 SHE 1232-05 Atlantic Packaging ProductsLtd, Mississauga, ON 1,162.16 2
+7185027-07 22:21 TAY 21-Sep-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 322.88 1
+7185837-02 22:21 TAY 8-Oct-2020 DAL 1135-00 Essex Precision Inc, Prince George, BC 6.19 1
+7185859-00 21:29 TAY 9-Oct-2020 GIN 6013-00 Gertex Distributing Inc, Toronto, ON 1,378.02 2
+7185938-00 21:45 TAY 13-Oct-2020 SHE 6207-00 GF Inc., Calgary, AB 0.00 2
+7185994-00 22:21 TAY 14-Oct-2020 DAL 2513-01 Weyerhaeuser Co Ltd - OSB Mill, Drayton Valley, AB 9.90 1
+7185998-00 21:45 TAY 14-Oct-2020 DAL 1298-01 Barrettewood Inc, Roberval, QC 486.82 2
+7186083-00 21:45 TAY 16-Oct-2020 THA 6282-144 Acklands-Grainger Inc.,, Caledon, ON 1,053.36 3
+7186113-00 21:11 PATE 16-Oct-2020 DAL 1531-00 Usine Sartigan Inc, Saint-Honore, QC 6,999.99 2
+7186186-00 21:11 PATE 22-Oct-2020 SHE 6207-02 GF Inc., Delta, BC 2,344.53 2
+7186200-01 21:11 PATE 23-Oct-2020 SHE 6117-19 Veritiv Canada Inc_Toronto, Mississauga, ON 2,356.08 2
+7186313-00 21:17 PATE 19-Oct-2020 GIN 6172-00 Crawford Packaging Inc., London, ON 3,595.50 2
+7186459-01 22:21 TAY 20-Oct-2020 GIN 2816-01 Conestoga Meats, Breslau, ON 219.01 1
+7186474-01 21:22 PATE 31-Oct-2020 GIN 2348-01 Marwood Ltd Cape Cod, Bedford, NS 162.09 2
+7186525-00 22:21 TAY 20-Oct-2020 GIN 1729-01 Arbec Forest Products Inc., Miramichi, NB 323.38 1
+7186570-01 21:22 PATE 21-Oct-2020 DAL 1886-00 Produits Forestiers Temrex, Nouvelle-Ouest, QC 55.07 2
+7186585-01 21:28 PATE 21-Oct-2020 DAL 1298-01 Barrettewood Inc, Roberval, QC 461.45 2
+7186755-00 22:21 TAY 5-Nov-2020 DAL 1700-01 Rio Tinto Fer et Titane Inc., Sorel-Tracy, QC 166.75 1
+7186784-01 21:28 PATE 23-Oct-2020 SHE 6183-00 Premium Plus Tool Repair, Stoney Creek, ON 208.96 2
+7186951-00 21:32 PATE 31-Oct-2020 SHE 6117-00 Veritiv Canada, Inc., Saint-Laurent, QC 1,423.59 2
+7186978-00 21:32 PATE 31-Oct-2020 SHE 1568-01 Max Aicher North America Inc, Hamilton, ON 2,010.22 2
+7186998-00 21:32 CAS 31-Oct-2020 MCM 2513-04 Weyerhaeuser Edson OSB, Edson, AB 469.72 2
+7187093-00 17:28 TAY 1-Nov-2020 GIN 6007-00 Advance Shipping Supplies, Mississauga, ON 114.78 1
+7187124-00 21:32 PATE 1-Nov-2020 SHE 1568-01 Max Aicher North America Inc, Hamilton, ON 1,024.83 2
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+7187139-00 21:32 PATE 1-Nov-2020 SHE 1568-01 Max Aicher North America Inc, Hamilton, ON 3,350.36 2
+7187143-01 22:21 TAY 1-Nov-2020 SHE 2020-01 Stella-Jones Inc, Delson, QC 150.20 1
+7187226-00 21:36 PATE 1-Nov-2020 DAL 1298-01 Barrettewood Inc, Roberval, QC 990.16 2
+7187423-02 21:40 TAY 3-Nov-2020 GIN 2720-01 Nova Steel Inc, Dorval, QC 1,990.44 1
+7187456-00 22:21 TAY 3-Nov-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 2,898.00 1
+7187674-00 22:21 TAY 30-Nov-2020 SHE 1188-01 Essar Steel Algoma Inc, Sault Ste Marie, ON 1.94 1
+7187678-00 22:21 TAY 30-Nov-2020 SHE 1188-01 Essar Steel Algoma Inc, Sault Ste Marie, ON 3.88 1
+7187680-00 22:21 TAY 30-Nov-2020 SHE 1188-01 Essar Steel Algoma Inc, Sault Ste Marie, ON 78.13 1
+7187819-00 22:21 TAY 9-Dec-2020 SHE 1188-01 Essar Steel Algoma Inc, Sault Ste Marie, ON 17.32 1
+7187870-00 22:21 TAY 10-Dec-2020 DAL 1181-01 General Cable Company Ltd., Jonquiere, QC 323.95 1
+7187871-00 22:21 TAY 10-Dec-2020 DAL 1181-01 General Cable Company Ltd., Jonquiere, QC 60.79 1
+36,220.45
+14-Dec-2020
+7187991-00 11:36 TAY 12-Dec-2020 DAL 1446-00 Bois Daaquam Inc, Saint-Just-De-Breten, QC 647.06 1
+7188000-00 11:36 TAY 12-Dec-2020 DAL 5088-01 Resolute PF Canada Inc, Girardville, QC 740.62 1
+7188005-00 11:36 TAY 12-Dec-2020 DAL 1446-00 Bois Daaquam Inc, Saint-Just-De-Breten, QC 146.22 1
+7188009-00 11:36 TAY 12-Dec-2020 DAL 5034-01 Resolute FP Canada Inc., Dolbeau-Mistassini, QC 789.24 1
+7188011-00 11:36 TAY 12-Dec-2020 DAL 2049-01 Produits Forestiers Arbec Inc., Shawinigan, QC 112.67 1
+7188068-00 14:46 DAL 14-Dec-2020 DAL 1707-04 Millar Western Pulp Whitecourt, Whitecourt, AB 222.21 2
+7188074-00 15:42 THA 14-Dec-2020 THA 6025-03 Entrepot Boisbriand, Boisbriand, QC 1,947.00 1
+4,605.02
+16-Dec-2020
+7187936-01 11:32 TAY 11-Dec-2020 DAL 1182-08 Rio Tinto Fer et Titane Inc., Jonquiere, QC 844.54 1
+7187946-01 11:32 TAY 11-Dec-2020 DAL 2880-00 Dolbeau Oxygene Inc., Dolbeau-Mistassini, QC 467.61 1
+7188063-00 11:32 NC 14-Dec-2020 MCM 5027-00 Resolute FP Canada Inc, Thunder Bay, ON 1,578.48 1
+2,890.63
+18-Dec-2020
+7184853-01 10:57 TAY 17-Sep-2020 SHE 6007-00 Advance Shipping Supplies, Mississauga, ON 1,493.10 1
+7185879-04 10:57 TAY 9-Oct-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 146.84 1
+7186654-02 10:58 TAY 22-Oct-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 529.26 1
+7186904-02 10:57 TAY 31-Oct-2020 SHE 6207-00 GF Inc., Calgary, AB 5.31 1
+7187296-02 10:57 TAY 2-Nov-2020 SHE 6207-00 GF Inc., Calgary, AB 6.82 1
+7188195-00 10:57 TAY 16-Dec-2020 SHE 6207-10 GF Inc., Regina, SK 6,238.56 1
+7188226-00 10:57 TAY 17-Dec-2020 GIN 1545-00 Giant Factories Inc, Montreal-Est, QC 2,448.00 1
+7188265-00 09:35 SHE 18-Dec-2020 SHE 6183-00 Premium Plus Tool Repair, Stoney Creek, ON 1,230.16 1
+7188301-00 16:33 THA 18-Dec-2020 THA 6282-144 Acklands-Grainger Inc.,, Caledon, ON 1,641.60 1
+7188302-00 16:40 THA 18-Dec-2020 THA 6282-112 Acklands Grainger Inc, Saskatoon, SK 1,641.60 1
+15,381.25
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+19-Dec-2020
+7186024-03 14:53 TAY 15-Oct-2020 SHE 6183-00 Premium Plus Tool Repair, Stoney Creek, ON 77.60 1
+7186434-04 14:53 TAY 20-Oct-2020 GIN 2348-02 Marwood Ltd, Tracyville, NB 12.39 1
+7186541-01 14:53 TAY 20-Oct-2020 MCM 1572-01 Hudbay Minerals Inc., Flin Flon, MB 0.48 1
+7186582-01 14:53 TAY 30-Oct-2020 SHE 6207-02 GF Inc., Delta, BC 39.59 1
+7186816-00 14:53 TAY 31-Oct-2020 THA 6282-144 Acklands-Grainger Inc.,, Caledon, ON 311.20 1
+7187255-03 14:53 TAY 2-Nov-2020 SHE 6207-02 GF Inc., Delta, BC 4.54 1
+7187916-01 14:53 TAY 11-Dec-2020 SHE 6207-15 Bunzl Canada, Winnipeg, MB 7,095.60 1
+7188158-00 14:53 TAY 18-Dec-2020 DAL 2721-01 Bois d'ingenierie, St Prime, QC 1,498.34 1
+7188265-01 14:53 TAY 18-Dec-2020 SHE 6183-00 Premium Plus Tool Repair, Stoney Creek, ON 501.74 1
+7188298-00 14:53 TAY 18-Dec-2020 GIN 2813-01 Olymel S.E.C/L.P., Vallee-Jonction, QC 2,948.40 1 REQUIRED FOR JAN 21ST
+12,489.88
+20-Dec-2020
+7188338-00 12:05 DAL 20-Dec-2020 DAL 2049-01 Produits Forestiers Arbec Inc., Shawinigan, QC 875.74 1
+875.74
+21-Dec-2020
+7188181-00 08:29 TAY 16-Dec-2020 GIN 6013-00 Gertex Distributing Inc, Toronto, ON 2,151.80 1
+7188343-00 08:55 SYS 20-Dec-2020 SHE 6207-00 GF Inc., Calgary, AB 3,995.56 1
+6,147.36
+22-Dec-2020
+7186112-02 10:03 SYS 16-Oct-2020 DAL 1298-01 Barrettewood Inc, Roberval, QC 70.16 1
+70.16
+23-Dec-2020
+7186439-00 13:00 NC 20-Oct-2020 GIN 1683-00 Scierie Landrienne, Landrienne, QC 2,142.80 1
+7186690-01 13:00 SYS 22-Oct-2020 DAL 1182-06 Rio Tinto Alcan Inc, Alma, QC 2,317.16 1
+4,459.96
+24-Dec-2020
+7186116-02 09:06 SYS 16-Oct-2020 DAL 1251-01 Barrette Chapais Ltee, Chapais, QC 1,664.20 1
+7186363-01 09:06 SYS 19-Oct-2020 SHE 6207-02 GF Inc., Delta, BC 1,859.93 1
+7186874-01 09:05 SYS 30-Oct-2020 SHE 6207-02 GF Inc., Delta, BC 1,977.36 2
+7188394-01 09:06 SYS 23-Dec-2020 SHE 6207-03 GF Inc., Edmonton, AB 1,054.51 1
+6,556.00
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+28-Dec-2020
+7186283-01 15:44 CAS 19-Oct-2020 THA 6282-003 Acklands Grainger Inc, Edmonton, AB 1,053.36 3
+7186477-00 17:03 TAY 20-Oct-2020 THA 6282-112 Acklands Grainger Inc, Saskatoon, SK 1,053.36 2
+2,106.72
+29-Dec-2020
+7188365-01 12:00 SYS 22-Dec-2020 SHE 5021-01 Novelis Inc, Kingston, ON 156.80 1
+7188485-00 11:03 SYS 29-Dec-2020 THA 6282-003 Acklands Grainger Inc, Edmonton, AB 405.84 1
+562.64
+31-Dec-2020
+7187322-02 17:00 SYS 2-Nov-2020 SHE 2021-22 Stelco Inc., Hamilton, ON 1,376.96 1
+7188130-02 17:00 SYS 20-Dec-2020 SHE 2021-22 Stelco Inc., Hamilton, ON 8,971.44 1
+7188477-01 17:00 SYS 29-Dec-2020 SHE 6207-00 GF Inc., Calgary, AB 1,150.32 1
+11,498.72
+04-Jan-2021
+7188530-00 11:02 SYS 29-Dec-2020 DAL 2861-00 3G Packaging Corp, Mississauga, ON 3,053.44 1
+7188696-00 17:36 TAY 4-Jan-2021 SHE 6207-02 GF Inc., Delta, BC 191.04 2
+3,244.48
+05-Jan-2021
+7185529-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 237.09 1
+7185536-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 6.01 1
+7185537-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 146.42 1
+7185538-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 122.47 1
+7185539-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 116.85 1
+7185540-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 79.27 1
+7185541-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 134.71 1
+7185542-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 226.93 1
+7185545-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 63.54 1
+7185547-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 553.39 1
+7185558-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 166.16 1
+7185559-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 151.97 1
+7185561-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 298.84 1
+7185562-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 144.49 1
+7185564-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 155.00 1
+7185565-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 130.94 1
+7185566-00 16:00 SYS 1-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 116.64 1
+7185582-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 383.68 1
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+7185583-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 260.84 1
+7185584-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 181.85 1
+7185585-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 47.95 1
+7185586-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 155.00 1
+7185588-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 169.31 1
+7185589-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 99.90 1
+7185590-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 61.20 1
+7185602-00 16:00 SYS 2-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 34.56 1
+7185685-00 16:00 SYS 5-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 26.56 1
+7185687-00 16:00 SYS 5-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 44.49 1
+7185740-00 16:00 SYS 7-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 1,656.00 1
+7185757-00 16:00 SYS 7-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 489.63 1
+7185759-00 16:00 SYS 7-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 287.55 1
+7185762-00 16:00 SYS 7-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 197.56 1
+7185764-00 16:00 SYS 7-Oct-2020 SHE 1463-16 ArcelorMittal Dofasco GP., Hamilton, ON 511.86 1
+7186334-04 17:00 SYS 19-Oct-2020 GIN 6015-01 Cabot Shipping Supplies Ltd, Dartmouth, NS 1,714.80 1
+7187456-02 22:49 TAY 3-Nov-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 1,842.24 1
+7187609-02 22:49 TAY 30-Nov-2020 SHE 6207-03 GF Inc., Edmonton, AB 2,089.68 1
+13,105.38
+06-Jan-2021
+7188700-01 12:00 SYS 4-Jan-2021 SHE 6183-00 Premium Plus Tool Repair, Stoney Creek, ON 110.03 1
+7188796-00 12:00 SYS 6-Jan-2021 GIN 2813-02 Olymel S.E.C/L.P., Princeville,, QC 2,948.40 1
+3,058.43
+07-Jan-2021
+7188788-01 16:00 SYS 5-Jan-2021 DAL 1564-21 WestRock Company of Canada Inc, Ste-Marie, QC 4,111.80 1
+4,111.80
+08-Jan-2021
+7185809-03 10:06 SYS 21-Oct-2020 MCM 2327-02 Louisiana-Pacific Canada Ltd, Dawson Creek, BC 201.02 2
+7186332-01 10:07 SYS 19-Oct-2020 MCM 2327-01 Louisiana-Pacific Canada Ltd, Minitonas, MB 23.13 2
+7186338-01 10:07 SYS 19-Oct-2020 MCM 2327-01 Louisiana-Pacific Canada Ltd, Minitonas, MB 92.52 2
+7186526-07 17:00 SYS 20-Oct-2020 MCM 1810-01 Warehouse Supply Inc., Winnipeg, MB 70.42 1
+7187075-02 13:00 SYS 1-Nov-2020 GIN 2041-00 Acier Fati Steel, Varennes, QC 165.68 1
+7188213-01 16:00 SYS 17-Dec-2020 GIN 2861-00 3G Packaging Corp, Mississauga, ON 1,820.32 1
+7188941-00 14:00 SYS 8-Jan-2021 THA 6282-144 Acklands-Grainger Inc.,, Caledon, ON 1,053.36 1
+3,426.45
+11-Jan-2021
+7185605-01 14:00 SYS 2-Oct-2020 GIN 1777-00 CCR Refinery, Montreal-Est, QC 427.50 2
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+7186224-02 17:01 SYS 8-Jan-2021 SHE 6183-00 Premium Plus Tool Repair, Stoney Creek, ON 125.03 1
+7186361-01 13:00 SYS 19-Oct-2020 SHE 2021-04 Stelco Inc., Hamilton, ON 1,527.84 1
+7187104-00 12:00 SYS 1-Nov-2020 GIN 6007-00 Advance Shipping Supplies, Mississauga, ON 448.91 1
+7187164-00 09:06 SYS 1-Nov-2020 THA 6282-100 Acklands Grainger Inc, Dartmouth, NS 2,613.68 1
+7187318-01 13:00 SYS 2-Nov-2020 SHE 2021-22 Stelco Inc., Hamilton, ON 2,012.40 1
+7188127-00 13:00 SYS 20-Dec-2020 SHE 2021-04 Stelco Inc., Hamilton, ON 1,579.04 1
+7188130-03 13:00 SYS 20-Dec-2020 SHE 2021-22 Stelco Inc., Hamilton, ON 2,414.88 1
+7188175-00 05:57 SYS 16-Dec-2020 GIN 2812-01 Olymel S.E.C/L.P., St-Esprit, QC 2,948.40 1
+7188349-03 13:00 SYS 21-Dec-2020 SHE 6207-00 GF Inc., Calgary, AB 131.50 1
+7188602-00 12:00 SYS 31-Dec-2020 MCM 1551-00 E-Commerce Sales, Markham, ON 938.69 1
+7188832-01 13:00 SYS 7-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 159.59 1
+7188848-00 13:00 SYS 11-Jan-2021 JOC 1750-02 Rio Tinto Alcan Inc., Kitimat, BC 4,961.71 1
+7188872-00 12:00 SYS 7-Jan-2021 GIN 2861-00 3G Packaging Corp, Mississauga, ON 505.61 1
+7189033-00 12:00 SYS 11-Jan-2021 GIN 6007-00 Advance Shipping Supplies, Mississauga, ON 2,760.00 1
+7189037-00 12:35 BM 11-Jan-2021 SHE 5021-01 Novelis Inc, Kingston, ON 7,399.65 1
+30,954.43
+12-Jan-2021
+7184168-01 09:02 SYS 1-Sep-2020 TAY 5067-02 Louisiana-Pacific Canada, Ltd., Dawson Creek, BC 995.33 2
+7186177-04 11:05 SYS 22-Oct-2020 SHE 6207-02 GF Inc., Delta, BC 255.78 1
+7186501-02 11:06 SYS 20-Oct-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 1,332.00 2
+7186517-04 11:05 SYS 20-Oct-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 1,332.00 1
+7186940-02 11:05 SYS 31-Oct-2020 SHE 6207-00 GF Inc., Calgary, AB 1,356.00 1
+7187243-02 11:05 SYS 2-Nov-2020 SHE 6207-00 GF Inc., Calgary, AB 1,356.00 1
+7187456-03 11:05 SYS 3-Nov-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 1,332.00 1
+7187607-02 11:05 SYS 30-Nov-2020 SHE 6207-03 GF Inc., Edmonton, AB 1,131.80 2
+7187909-02 11:06 SYS 11-Dec-2020 GIN 1550-00 Goodfellow Inc, Delson, QC 627.74 1
+7188173-02 11:06 SYS 16-Dec-2020 GIN 6007-00 Advance Shipping Supplies, Mississauga, ON 666.00 1
+7189060-00 11:05 SYS 12-Jan-2021 SHE 2041-00 Acier Fati Steel, Varennes, QC 3,073.46 1
+7189068-00 09:56 THA 12-Jan-2021 THA 1875-00 FF Soucy WB Ltd Partnership, Riviere-du-Loup, QC 4,230.00 1
+7189111-00 21:07 SHE 12-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 2,648.82 1
+20,336.93
+13-Jan-2021
+7184167-01 09:05 SYS 31-Aug-2020 SHE 6207-02 GF Inc., Delta, BC 1,543.67 2
+7184839-01 12:00 SYS 16-Sep-2020 DAL 2003-02 QSL Canada Inc., Sept-iles, QC 74,200.00 1
+7186192-05 10:04 SYS 23-Oct-2020 SHE 6207-02 GF Inc., Delta, BC 8,532.86 1
+7187241-04 10:04 SYS 2-Nov-2020 SHE 6207-00 GF Inc., Calgary, AB 4,179.36 1
+7187265-07 10:04 SYS 2-Nov-2020 SHE 6207-02 GF Inc., Delta, BC 4,179.36 1
+7188010-01 14:00 SYS 14-Dec-2020 DAL 1174-04 Norbord Inc., Grande Prairie, AB 0.00 1
+7188087-00 09:17 TAY 14-Dec-2020 DAL 1298-01 Barrettewood Inc, Roberval, QC 7,642.08 1
+7188169-01 10:04 SYS 16-Dec-2020 THA 1908-01 Celcor Limited, Cambridge, ON 1,573.44 1
+7188212-01 10:04 SYS 17-Dec-2020 GIN 1809-02 O-I Canada Corporation, Brampton, ON 15,755.52 3
+7188247-02 13:00 SYS 19-Dec-2020 MCM 1810-01 Warehouse Supply Inc., Winnipeg, MB 113.56 1
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+7188348-02 08:03 SYS 21-Dec-2020 SHE 2720-00 Nova Steel Inc, Lasalle, QC 15,633.15 1
+7188366-02 09:18 TAY 22-Dec-2020 DAL 1507-00 Barrette Wood Ltd., Saint-Jean-Sur-Richelieu, QC 5,094.72 1
+7188399-01 14:00 SYS 23-Dec-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 1,842.24 1
+7188588-02 08:03 SYS 4-Jan-2021 DAL 2599-00 New Forest Paper Mills, Scarborough, ON 406.53 1
+7188785-02 10:04 SYS 5-Jan-2021 SHE 6207-02 GF Inc., Delta, BC 1,864.80 1
+7188808-00 10:04 SYS 6-Jan-2021 GIN 1878-01 Twin Rivers Paper Company Inc., Plaster Rock, NB 1,886.16 1
+7188855-01 15:00 SYS 8-Jan-2021 JOC 1510-01 Zellstoff Celgar Ltd, Castlegar, BC 280.00 2
+7188868-00 12:00 SYS 7-Jan-2021 GIN 5035-01 PF Resolu Canada Inc, Senneterre, QC 1,540.00 1
+7188965-00 10:04 SYS 11-Jan-2021 DAL 2335-00 Construction L'Islet Sud Inc, St-Omer, QC 1,980.00 1
+7189096-00 13:00 SYS 12-Jan-2021 GIN 6172-02 Crawford Packaging Inc., Brampton, ON 2,168.64 1
+7189121-00 13:00 SYS 13-Jan-2021 SHE 6207-03 GF Inc., Edmonton, AB 1,563.46 1
+7189123-00 11:04 SYS 13-Jan-2021 GIN 1232-07 Atlantic Packaging ProductsLtd, Scarborough, ON 144.94 1
+7189124-00 13:00 SYS 13-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 4,874.01 1
+7189129-00 13:00 SYS 13-Jan-2021 SHE 6207-13 GF Inc., Delta, BC 14,256.00 1
+7189138-00 15:00 SYS 13-Jan-2021 SHE 6207-02 GF Inc., Delta, BC 836.00 1
+7189141-00 15:00 SYS 13-Jan-2021 SHE 2583-00 Arcelor Mittal Tubular Product, Brampton, ON 1,326.40 1
+173,416.90
+14-Jan-2021
+7173213-00 16:22 SYS 5-Jan-2021 LUN 1463-15 ArcelorMittal Dofasco GP., Hamilton, ON 651.96 1
+7180496-02 16:22 SYS 13-May-2020 GIN 1335-00 Groupe Canam Inc., Boucherville, QC 0.26 1
+7182913-03 16:22 SYS 27-Jul-2020 SHE 6207-02 GF Inc., Delta, BC 0.39 1
+7184995-05 05:57 SYS 28-Sep-2020 SHE 6207-03 GF Inc., Edmonton, AB 5,175.90 1
+7185751-03 16:22 SYS 7-Oct-2020 MCM 1810-01 Warehouse Supply Inc., Winnipeg, MB 178.05 1
+7185782-00 05:57 SYS 7-Oct-2020 THA 6025-03 Entrepot Boisbriand, Boisbriand, QC 2,521.80 1
+7185907-01 16:22 SYS 13-Oct-2020 DAL 1135-00 Essex Precision Inc, Prince George, BC 195.09 1
+7186041-02 05:58 SYS 16-Oct-2020 DAL 1182-05 Rio Tinto Alcan Inc., Chicoutimi, QC 1,740.28 1
+7186155-04 05:58 SYS 21-Oct-2020 SHE 6207-03 GF Inc., Edmonton, AB 2,587.95 1
+7186217-02 16:22 SYS 7-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 22.92 1
+7186417-01 05:57 SYS 19-Oct-2020 GIN 2723-03 Maple Leaf Foods Inc., Brandon, MB 137.88 1
+7186569-05 05:57 SYS 21-Oct-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 389.28 1
+7186789-02 05:58 SYS 23-Oct-2020 SHE 6207-00 GF Inc., Calgary, AB 32.42 1
+7186869-03 05:57 SYS 30-Oct-2020 SHE 6207-00 GF Inc., Calgary, AB 206.51 1
+7186954-02 16:22 SYS 31-Oct-2020 SHE 2015-01 Kirkland Lake Forest Products, Kenogami, ON 22.66 1
+7187255-05 05:57 SYS 2-Nov-2020 SHE 6207-02 GF Inc., Delta, BC 1,301.53 1
+7187436-02 05:57 SYS 3-Nov-2020 GIN 6172-00 Crawford Packaging Inc., London, ON 3,595.50 1
+7187483-06 05:58 SYS 4-Nov-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 152.24 1
+7187483-07 16:22 SYS 4-Nov-2020 DAL 2535-00 SRAP, St Charles De Bourge, QC 21.22 1
+7187605-01 05:58 SYS 30-Nov-2020 DAL 1579-00 HNP Services, Markham, ON 180.46 1
+7187655-00 05:58 SYS 29-Nov-2020 GIN 2578-01 Owens Corning Celfortec LP, Salaberry De Valleyf, QC 288.42 1
+7187657-00 05:58 SYS 30-Nov-2020 GIN 6172-00 Crawford Packaging Inc., London, ON 5,393.25 1
+7187820-02 05:58 SYS 9-Dec-2020 SHE 6207-02 GF Inc., Delta, BC 83.25 1
+7187933-00 05:58 SYS 11-Dec-2020 DAL 1182-06 Rio Tinto Alcan Inc, Alma, QC 870.14 1
+7187939-00 16:22 SYS 11-Dec-2020 DAL 2591-00 Alexandre Cote Ltee, Scott, QC 1,968.24 1
+7188002-00 16:22 SYS 5-Jan-2021 DAL 1181-01 General Cable Company Ltd., Jonquiere, QC 3,903.29 1
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+7188110-03 16:22 SYS 15-Dec-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 528.48 2
+7188131-00 05:57 SYS 15-Dec-2020 GIN 1214-06 JD Irving Limited, Chipman, NB 304.58 1
+7188214-00 05:58 SYS 17-Dec-2020 GIN 2630-01 Alliance St-Laurent(Victo & Co, Edmundston, NB 3,713.90 1
+7188362-04 16:22 SYS 22-Dec-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 827.00 2
+7188406-00 16:22 SYS 30-Dec-2020 DAL 6007-00 Advance Shipping Supplies, Mississauga, ON 93.63 1
+7188432-01 05:57 SYS 23-Dec-2020 DAL 1382-00 Prod Forestiers Petit Paris, St-Ludger De Milot, QC 109.06 1
+7188566-00 05:58 SYS 30-Dec-2020 DAL 2864-00 Packaging Products Inc, Mississauga, ON 2,093.85 1
+7188825-03 16:22 SYS 6-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 115.30 1
+7188829-00 16:22 SYS 6-Jan-2021 DAL 1440-00 Crown Packaging Ltd, Richmond, BC 763.31 1
+7188964-01 16:22 SYS 8-Jan-2021 GIN 1288-01 Materiaux Blanchet Inc, Amos, QC 11,545.68 1
+7189013-01 05:58 SYS 11-Jan-2021 GIN 1466-13 Eacom Timber Corporation, Timmins, ON 7,382.40 1
+7189088-00 05:58 SYS 12-Jan-2021 MCM 1466-09 Eacom Timber Corporation, Ear Falls, ON 5,536.80 1
+7189118-00 05:58 SYS 13-Jan-2021 SHE 6207-02 GF Inc., Delta, BC 4,208.64 1
+7189143-00 16:22 SYS 13-Jan-2021 SHE 1978-01 ArcelorMittal Produits longs, Longueuil, QC 664.25 1
+7189147-00 16:22 SYS 13-Jan-2021 GIN 1935-00 Rebel Packaging, Newmarket, ON 269.49 1
+7189148-00 16:22 SYS 13-Jan-2021 GIN 1935-00 Rebel Packaging, Newmarket, ON 417.90 1
+7189160-00 16:22 SYS 7-Dec-2020 DAL 2507-01 Skookumchuck Pulp Inc., Skookumchuck, BC 703.14 1
+7189163-00 04:50 THA 14-Jan-2021 THA 2500-00 Cascadia Metals, Delta, BC 660.10 2
+7189164-00 05:58 SYS 14-Jan-2021 GIN 1466-14 Eacom Timber Corporation, Sault Ste Marie, ON 1,607.76 1
+7189171-00 05:16 SHE 14-Jan-2021 SHE 6207-02 GF Inc., Delta, BC 1,854.03 1
+7189171-01 16:22 SYS 14-Jan-2021 SHE 6207-02 GF Inc., Delta, BC 610.93 1
+7189180-00 16:22 SYS 14-Jan-2021 GIN 2849-00 Olymel St-Hyacinthe, St-Hyacinthe, QC 3,384.60 1
+79,015.72
+15-Jan-2021
+7183463-01 11:04 SYS 3-Sep-2020 THA 1174-07 Norbord Inc., High Level, AB 492.91 1
+7185017-05 11:05 SYS 23-Sep-2020 GIN 1466-13 Eacom Timber Corporation, Timmins, ON 1,164.60 1
+7185516-00 15:00 SYS 5-Oct-2020 DAL 5044-01 Resolute PF US Inc., Grenada, MS 1,270.47 1
+7185902-01 11:05 SYS 13-Oct-2020 GIN 1835-01 Les Entreprises Rolland Inc.,, Saint-Jerome, QC 656.72 1
+7186032-01 12:05 SYS 16-Oct-2020 THA 1551-01 E-Commerce Sales, Lachine, QC 61.78 1
+7186224-03 10:04 SYS 8-Jan-2021 SHE 6183-00 Premium Plus Tool Repair, Stoney Creek, ON 387.78 1
+7186592-00 11:05 SYS 21-Oct-2020 MCM 1313-00 Resolute PF Canada Inc., Thunder Bay, ON 2,998.06 1
+7186653-04 11:05 SYS 22-Oct-2020 DAL 2355-02 Dist. Toiture Mauricienne Inc., Trois Rivieres, QC 574.82 1
+7186720-00 11:05 SYS 22-Oct-2020 THA 1551-01 E-Commerce Sales, Lachine, QC 5,633.20 1
+7186816-01 11:05 SYS 31-Oct-2020 THA 6282-144 Acklands-Grainger Inc.,, Caledon, ON 311.20 1
+7186979-04 10:04 SYS 31-Oct-2020 SHE 6207-02 GF Inc., Delta, BC 75.85 1
+7187016-05 11:05 SYS 31-Oct-2020 DAL 1135-00 Essex Precision Inc, Prince George, BC 38.71 1
+7187167-01 10:29 GIN 1-Nov-2020 GIN 1683-00 Scierie Landrienne, Landrienne, QC 4,005.12 1
+7187205-01 12:05 SYS 1-Nov-2020 SHE 1188-01 Essar Steel Algoma Inc, Sault Ste Marie, ON 329.54 1
+7187293-02 11:04 SYS 2-Nov-2020 SHE 6207-00 GF Inc., Calgary, AB 98.80 1
+7187481-00 15:00 SYS 4-Nov-2020 THA 1510-01 Zellstoff Celgar Ltd, Castlegar, BC 2,180.22 2
+7187685-05 11:05 SYS 30-Nov-2020 SHE 6207-00 GF Inc., Calgary, AB 49.40 1
+7187716-00 11:05 SYS 30-Nov-2020 THA 1551-01 E-Commerce Sales, Lachine, QC 5,633.20 2
+7187774-02 11:05 SYS 1-Dec-2020 SHE 5021-01 Novelis Inc, Kingston, ON 2,795.50 1
+7187797-00 11:05 SYS 1-Dec-2020 GIN 1777-00 CCR Refinery, Montreal-Est, QC 401.85 2
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+7187827-00 11:05 SYS 10-Dec-2020 THA 1019-01 Kellogg Canada, Belleville, ON 2,033.46 1
+7187869-01 11:05 SYS 10-Dec-2020 DAL 1181-01 General Cable Company Ltd., Jonquiere, QC 3,262.77 1
+7187960-00 13:52 DAL 12-Dec-2020 DAL 1616-02 Barrette Iberville, Saint-Jean-Sur-Richelieu, QC 2,333.39 3
+7187971-02 10:05 SYS 12-Dec-2020 SHE 6207-00 GF Inc., Calgary, AB 3,254.79 1
+7188058-00 11:05 SYS 14-Dec-2020 GIN 1466-02 Eacom Timber Corporation, Val-d'or, QC 32.98 1
+7188110-04 11:05 SYS 15-Dec-2020 MCM 6350-00 Surseal Packaging, Winnipeg, MB 4,012.71 1
+7188130-04 11:05 SYS 20-Dec-2020 SHE 2021-22 Stelco Inc., Hamilton, ON 1,485.00 1
+7188143-01 10:04 SYS 15-Dec-2020 SHE 2088-00 Tenneco Business Services, Cambridge, ON 515.66 1
+7188267-02 11:05 SYS 21-Dec-2020 GIN 1466-13 Eacom Timber Corporation, Timmins, ON 360.86 1
+7188287-01 15:00 SYS 18-Dec-2020 THA 1099-01 Catalyst Paper Corp, Crofton, BC 492.50 1
+7188299-00 11:05 SYS 18-Dec-2020 THA 6282-003 Acklands Grainger Inc, Edmonton, AB 2,106.72 1
+7188401-01 12:09 MCM 23-Dec-2020 DAL 1760-00 Cascade Containerboard PKC, Temiscouata-Sur-Le-Lac, QC 5,699.75 2
+7188484-00 11:05 SYS 29-Dec-2020 THA 6282-112 Acklands Grainger Inc, Saskatoon, SK 1,053.36 1
+7188500-01 11:05 SYS 29-Dec-2020 DAL 1466-13 Eacom Timber Corporation, Timmins, ON 65.96 1
+7188590-00 11:05 SYS 8-Jan-2021 DAL 1797-01 Cascades Services et Achats, Kingsey Falls, QC 2,509.62 1
+7188598-00 12:05 SYS 30-Dec-2020 DAL 1135-00 Essex Precision Inc, Prince George, BC 488.03 1
+7188700-03 10:04 SYS 4-Jan-2021 SHE 6183-00 Premium Plus Tool Repair, Stoney Creek, ON 219.40 1
+7188711-01 11:05 SYS 4-Jan-2021 DAL 1316-00 Brampton Brick Ltd, Brampton, ON 705.15 1
+7188812-02 11:05 SYS 6-Jan-2021 GIN 6015-01 Cabot Shipping Supplies Ltd, Dartmouth, NS 4,017.60 1
+7188825-04 10:04 SYS 6-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 380.51 1
+7188924-00 16:00 SYS 8-Jan-2021 GIN 2442-00 Cascades Containerboard, Scarborough, ON 1,001.00 1
+7188939-00 11:05 SYS 8-Jan-2021 THA 6282-003 Acklands Grainger Inc, Edmonton, AB 830.70 1
+7189046-00 12:05 SYS 11-Jan-2021 GIN 5060-01 PF Resolu Canada Inc, Gatineau, QC 364.67 1
+7189074-00 08:02 SYS 14-Jan-2021 DAL 1395-01 Rothman Benson & Hedges, Quebec, QC 3,864.90 1
+7189100-00 12:05 SYS 12-Jan-2021 THA 1176-01 Outotec Canada Ltd, Burlington, ON 763.87 1
+7189109-01 10:05 SYS 12-Jan-2021 SHE 6207-02 GF Inc., Delta, BC 13.24 1
+7189124-01 11:05 SYS 13-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 98.80 1
+7189147-01 10:04 SYS 13-Jan-2021 GIN 1935-00 Rebel Packaging, Newmarket, ON 55.42 1
+7189171-02 10:05 SYS 14-Jan-2021 SHE 6207-02 GF Inc., Delta, BC 3.00 1
+7189200-00 08:02 SYS 7-Dec-2020 DAL 1707-02 Millar Western Forest Products, Whitecourt, AB 2,000.25 1
+7189212-00 08:02 SYS 14-Jan-2021 DAL 1382-00 Prod Forestiers Petit Paris, St-Ludger De Milot, QC 1,529.03 1
+7189213-00 08:01 SYS 14-Jan-2021 DAL 1875-00 FF Soucy WB Ltd Partnership, Riviere-du-Loup, QC 134.28 1
+7189218-00 05:57 SYS 14-Jan-2021 DAL 2780-00 Groupe Crete, St-Faustin Lac Carre, QC 242.90 1
+7189222-00 08:01 SYS 14-Jan-2021 DAL 2049-01 Produits Forestiers Arbec Inc., Shawinigan, QC 13,137.43 1
+7189224-00 05:58 SYS 14-Jan-2021 DAL 1564-21 WestRock Company of Canada Inc, Ste-Marie, QC 419.62 1
+7189225-00 08:02 SYS 14-Jan-2021 DAL 2355-02 Dist. Toiture Mauricienne Inc., Trois Rivieres, QC 8,452.00 1
+7189236-00 10:05 SYS 15-Jan-2021 GIN 5035-01 PF Resolu Canada Inc, Senneterre, QC 1,540.00 1
+7189237-00 11:04 SYS 15-Jan-2021 GIN 1809-04 O-I Canada Corporation, Montreal, QC 80.38 1
+7189238-00 10:10 SHE 15-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 1,139.04 1
+7189240-00 11:05 SYS 15-Jan-2021 GIN 5035-01 PF Resolu Canada Inc, Senneterre, QC 1,400.00 1
+7189243-00 11:05 SYS 15-Jan-2021 GIN 1516-02 Arauco Canada Limited, Sault Ste. Marie, ON 3,630.24 1
+7189244-00 11:03 SHE 15-Jan-2021 SHE 6207-05 GF Inc., Kelowna, BC 3,210.00 1
+7189245-00 12:05 SYS 15-Jan-2021 GIN 1288-01 Materiaux Blanchet Inc, Amos, QC 46,182.72 1
+7189247-00 12:05 SYS 15-Jan-2021 GIN 1763-00 Cascades Emballage, Drummondville, QC 3,914.88 1
+7189250-00 12:11 SHE 15-Jan-2021 SHE 2720-00 Nova Steel Inc, Lasalle, QC 4,660.96 1
+7189252-00 12:36 SHE 15-Jan-2021 SHE 6207-00 GF Inc., Calgary, AB 1,920.00 1
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+7189253-00 13:00 SYS 15-Jan-2021 GIN 1763-00 Cascades Emballage, Drummondville, QC 5,872.32 1
+7189253-00 13:00 SYS 15-Jan-2021 GIN 1763-00 Cascades Emballage, Drummondville, QC 5,872.32 1
+7189260-00 14:00 SYS 15-Jan-2021 THA 6282-003 Acklands Grainger Inc, Edmonton, AB 1,053.36 1
+7189262-00 14:00 SYS 15-Jan-2021 THA 6282-144 Acklands-Grainger Inc.,, Caledon, ON 889.16 1
+7189272-00 17:00 SYS 15-Jan-2021 GIN 6007-00 Advance Shipping Supplies, Mississauga, ON 689.52 1
+173,283.64
+Order No. Time By Entered Customer Name / Address Amount Count
+Orders In Stage 2 - Pick Ticket Printed - Warehouse A001 18 Jan 2021
+Entered
+By Note
+Printed
+Report Total 683,358.02
